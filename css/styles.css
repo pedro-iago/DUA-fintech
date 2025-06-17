@@ -1,0 +1,14 @@
+
+.accordion-button:not(.collapsed) {
+            background-color: #ffc107;
+            /* Bootstrap warning color */
+            color: #212529;
+            /* Texto escuro para contraste */
+        }
+
+        /* Remove o fundo padrão do botão fechado */
+        .accordion-button {
+            background-color: #f8f9fa;
+            /* cor clara para fechado */
+            color: #212529;
+        }
